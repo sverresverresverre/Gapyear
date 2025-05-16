@@ -1,0 +1,14 @@
+c:\Users\sverre.kallberg\Documents\Prog2\Gapyear\Gapyear\bin\Debug\net9.0\Gapyear.exe
+c:\Users\sverre.kallberg\Documents\Prog2\Gapyear\Gapyear\bin\Debug\net9.0\Gapyear.deps.json
+c:\Users\sverre.kallberg\Documents\Prog2\Gapyear\Gapyear\bin\Debug\net9.0\Gapyear.runtimeconfig.json
+c:\Users\sverre.kallberg\Documents\Prog2\Gapyear\Gapyear\bin\Debug\net9.0\Gapyear.dll
+c:\Users\sverre.kallberg\Documents\Prog2\Gapyear\Gapyear\bin\Debug\net9.0\Gapyear.pdb
+c:\Users\sverre.kallberg\Documents\Prog2\Gapyear\Gapyear\obj\Debug\net9.0\Gapyear.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sverre.kallberg\Documents\Prog2\Gapyear\Gapyear\obj\Debug\net9.0\Gapyear.AssemblyInfoInputs.cache
+c:\Users\sverre.kallberg\Documents\Prog2\Gapyear\Gapyear\obj\Debug\net9.0\Gapyear.AssemblyInfo.cs
+c:\Users\sverre.kallberg\Documents\Prog2\Gapyear\Gapyear\obj\Debug\net9.0\Gapyear.csproj.CoreCompileInputs.cache
+c:\Users\sverre.kallberg\Documents\Prog2\Gapyear\Gapyear\obj\Debug\net9.0\Gapyear.dll
+c:\Users\sverre.kallberg\Documents\Prog2\Gapyear\Gapyear\obj\Debug\net9.0\refint\Gapyear.dll
+c:\Users\sverre.kallberg\Documents\Prog2\Gapyear\Gapyear\obj\Debug\net9.0\Gapyear.pdb
+c:\Users\sverre.kallberg\Documents\Prog2\Gapyear\Gapyear\obj\Debug\net9.0\Gapyear.genruntimeconfig.cache
+c:\Users\sverre.kallberg\Documents\Prog2\Gapyear\Gapyear\obj\Debug\net9.0\ref\Gapyear.dll
